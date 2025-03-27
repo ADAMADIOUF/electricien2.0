@@ -47,7 +47,7 @@ const Navbar = () => {
         <li>
           <Link
             to='/appointment'
-            className='navbar-link bt'
+            className='navbar-link btn-appointment'
             onClick={closeMenu}
           >
             Rendez-vous

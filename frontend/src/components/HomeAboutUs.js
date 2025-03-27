@@ -4,8 +4,8 @@ import { FaTools, FaSolarPanel } from 'react-icons/fa'
 import { AiOutlineHome } from 'react-icons/ai'
 import { BsDiagram3 } from 'react-icons/bs'
 import signature from '../assets/signature.png'
+import first from '../assets/4.png'
 import second from '../assets/2.png'
-
 const HomeAboutUs = () => {
   return (
     <div className='home-about-us'>
@@ -28,7 +28,9 @@ const HomeAboutUs = () => {
         </article>
         <article className='home-about-us-details'>
           <h1>À propos de nous</h1>
-          <h3>Services électriques résidentiels et commerciaux</h3>
+          <h3 className='home-about-us-details-text'>
+            Services électriques résidentiels et commerciaux
+          </h3>
           <p>
             Tous nos services sont garantis à 100%. Nos électriciens peuvent
             installer tout, de l'éclairage de sécurité extérieur à un générateur
@@ -74,7 +76,7 @@ const HomeAboutUs = () => {
       </div>
       <div className='about-home-img-fixed'>
         <img
-          src='https://i.pinimg.com/736x/54/66/72/546672b2f7a08a9c38765a64c10f1e08.jpg'
+          src={first}
           alt=''
         />
       </div>
