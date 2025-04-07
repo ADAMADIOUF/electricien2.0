@@ -16,8 +16,10 @@ const Navbar = () => {
   return (
     <nav className='navbar'>
       <div className='navbar-brand'>
-        <img src={logo} alt='Logo' className='logo' />
-      </div>
+  <img src={logo} alt='Logo' className='logo' />
+  <span className='brand-text'>Association Électriciens Du Futur ELEC 2.0 Sénégal</span>
+</div>
+
       <ul className={`navbar-links ${isMenuOpen ? 'open' : ''}`}>
         <li>
           <Link to='/' className='navbar-link' onClick={closeMenu}>

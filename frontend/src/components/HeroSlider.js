@@ -12,9 +12,9 @@ const slides = [
   },
   {
     image:
-      'https://scontent.fdkr5-1.fna.fbcdn.net/v/t39.30808-6/468644328_122186886212178796_6345170879825450466_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lsz5Qc-8IegQ7kNvgFKHlQi&_nc_oc=AdkKCumjyhfphQDN-sRuauTJxDSsrngGljLmVyZ31mpKsITfxjDY-JTfFyaoCJgvEn8OcTaTAFk0RWrgCsCFOMAZ&_nc_zt=23&_nc_ht=scontent.fdkr5-1.fna&_nc_gid=s5dvOA6DfpJ8V6o2DAp1Ew&oh=00_AYHHJuTnt3t1oG_Z_JbKTmLcnnoOGbyF27j8GDxPWwn2VQ&oe=67E9B1D6',
+      'https://scontent.fdkr5-1.fna.fbcdn.net/v/t39.30808-6/487199888_122212438796178796_7070731091741640424_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lypPzgpZcqUQ7kNvwG_2nwh&_nc_oc=Adm7ofizH70jIVipfacCkyStxXxDxnxtskoOzcygydZr_XQrxedkHOYRRjej_p0QRP15ZRQSXa-AHq9QcUmTJqpq&_nc_zt=23&_nc_ht=scontent.fdkr5-1.fna&_nc_gid=uj1ajD32QMn6qRZqYa3SLw&oh=00_AfFj78hz2VpfjjduqdKV9qQziQ5c4GpfCBsJVZVCXU6Y3Q&oe=67F9AB75',
     title: 'Innovation et Expertise',
-    description: 'Des solutions électriques modernes et durables.',
+              description: 'Des solutions électriques modernes et durables.',
     buttonText: 'Nous Contacter',
     buttonLink: '/contact',
   },
@@ -27,7 +27,7 @@ const slides = [
   },
   {
     image:
-      'https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/480662510_122203941404178796_5402765707262682573_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=A3pLozJReXQQ7kNvgFlBI6f&_nc_oc=AdkBTEuLmB7BOW--uMhWBo9C1Q8aKy6fdv0lyURHjdC5Tr1DQyyvGw8fHzwlCO-OGwY80VHgeyQ7m4R1yu0xTTBv&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=SBJmOGv2AgAoW5b06A-KUA&oh=00_AYGZjPqyI-ZKdsJLzuytVSidRMIIvXNPKDY22b5LNgmcfQ&oe=67E99FC0',
+      'https://scontent.fdkr5-1.fna.fbcdn.net/v/t39.30808-6/487241142_122212647908178796_2862524803268585747_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Rvcyt0IsFQMQ7kNvwHz1IvI&_nc_oc=AdmgKCDvNFX3YOFEAQnaMboEs5kc3Qz5Ftq114RqKlChWtmDuJuA1IhbTc6nzW6d9Ny-hJJ69YxkWMynwJ1LfyJ3&_nc_zt=23&_nc_ht=scontent.fdkr5-1.fna&_nc_gid=rC9j_lruVh_LqofOTZD0Rg&oh=00_AfFxufCp8jYfcAXggwE8dRZk2fhGij3pp0jajaGSX507Mg&oe=67F9BB0A',
     title: 'Des Solutions Fiables',
     description:
       'Un service rapide et efficace pour tous vos besoins électriques.',
@@ -36,7 +36,7 @@ const slides = [
   },
   {
     image:
-      'https://scontent.fdkr5-1.fna.fbcdn.net/v/t39.30808-6/477125273_122201261198178796_7605886164469801404_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YaWaJrsDoOUQ7kNvgGmbOE8&_nc_oc=AdkugOSGX1wMNxmqAp2Awr0ORD-F0OMYsP9SMZREOy2qU7pWMSUXzHBJ1Pq71CXtEQM1x0itIkwsaTI8uCf1Gtoy&_nc_zt=23&_nc_ht=scontent.fdkr5-1.fna&_nc_gid=E4dEJSwb0L1qKqbdJ162gQ&oh=00_AYHX91Wsb1w6Nl7TYBfscrqr6IqEeB_03bKQKzCq6ig8LQ&oe=67E9AB1E',
+      'https://scontent.fdkr7-1.fna.fbcdn.net/v/t39.30808-6/482250949_122208223424178796_7303668746690616830_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dDK4SdiSBqEQ7kNvwHgv4qm&_nc_oc=AdnD64bGvl2diakLHfRQ9z4Q4keOK7c6TFwpigFreD41OuJeHFJhN_oYQ4uNSAC04IK9XKNtWMA0rY55YS9W-4HM&_nc_zt=23&_nc_ht=scontent.fdkr7-1.fna&_nc_gid=vg3_KdqfTLc4TPwRaUlRtQ&oh=00_AfFeokw04j0WR3YECNT-e-H9OehBcNE8jfPgZ0Hwk2ZKXQ&oe=67F9BC35',
     title: 'Expertise Certifiée',
     description:
       'Nous garantissons un travail sécurisé et conforme aux normes.',
